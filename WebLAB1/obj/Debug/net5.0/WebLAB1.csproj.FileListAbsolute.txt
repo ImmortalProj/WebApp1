@@ -38,3 +38,4 @@ C:\Users\user\source\repos\WebLAB1\WebLAB1\obj\Debug\net5.0\ref\WebLAB1.dll
 C:\Users\user\source\repos\WebLAB1\WebLAB1\obj\Debug\net5.0\WebLAB1.pdb
 C:\Users\user\source\repos\WebLAB1\WebLAB1\obj\Debug\net5.0\WebLAB1.genruntimeconfig.cache
 C:\Users\user\source\repos\WebLAB1\WebLAB1\obj\Debug\net5.0\WebLAB1.csproj.CopyComplete
+C:\Users\user\source\repos\WebLAB1\WebLAB1\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
